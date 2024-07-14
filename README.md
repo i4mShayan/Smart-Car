@@ -1,9 +1,10 @@
-# Line Tracking Robot With Arduino And Freertos
-Implementation of a smart line-tracking robot with the following features:
-- Distance detector
+# Smart Car With Arduino And Freertos
+Implementation of a Smart Car System including the following features:
+- Distance Detector
+- Line Detector
 - Photoresistor
-- Tilt sensor
-- PID speed control
+- Tilt Sensor
+- PID Speed Control
 
 You can also read more in the [report file](/EMB-Final%20Project-Report.pdf).
 
@@ -13,7 +14,7 @@ You can also read more in the [report file](/EMB-Final%20Project-Report.pdf).
 
 ## Implementation
 <p align="center">
-    <img width="600" src="https://github.com/RozhanMk/Smart-line-tracking-robot/blob/master/smart_car/tinkercad.jpg" alt="Material Bread logo">
+    <img width="600" src="/smart_car/tinkercad.jpg" alt="Material Bread logo">
 </p>
 
 
